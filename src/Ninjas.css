@@ -1,0 +1,10 @@
+body{
+    background:  rgb(64, 129, 185);
+    /* transition: all 1s; */
+}
+
+form{
+    background: #fff;
+    margin: 10%;
+    padding: 20px;
+}
